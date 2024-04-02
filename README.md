@@ -14,11 +14,11 @@ Se tiene dos funciones que son:
     
 # Correr el proyecto de manera local 
 
-+ Primero clonar el repositoria con el siguiente comando:
++ Primero clonar el repositorio con el siguiente comando:
   ~~~
   git clone https://github.com/Juc28/AREP_Parcial2.git
   ~~~
-+ Entrar a la carperta con el siguiente comando:
++ Entrar a la carperta del proyecto con el siguiente comando:
   ~~~
   cd AREP_Parcial2
   ~~~
