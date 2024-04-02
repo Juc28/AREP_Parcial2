@@ -2,12 +2,12 @@
 # Parcial Segundo Corte De AREP
 
 Se tiene dos funciones que son:
-* Factores --> 
+* Factores --> Esta retonar un json con las lista de lo números correspondientes.
   + 1 es un factor de todos los números
   + de ahí en adelante simplemente mirando el módulo puede verificar si es o no factor.
   + Puede mirar todos los numeros hasta n/2
   + n pertenece también a los factores.
-* Primos --> 
+* Primos --> Esta retonar un json con las lista de lo números primos menores o iguales a n.
   + 1 no es un número primo
   + de ahí en adelante recuerde que un número es primo si solo es divisible por 1 y por si mismo.
   + Es decir un número es primo si el tamaño del conjunto de factores es 2.
