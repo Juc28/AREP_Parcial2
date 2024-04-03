@@ -152,7 +152,7 @@ El servidor también utiliza el método port para especificar el puerto en el qu
   ![imagen](https://github.com/Juc28/AREP_Parcial2/assets/118181224/4b1c00dd-bd79-4e73-8b9a-68fd3568abeb)
 # Prueba del Despliegue: 
 
-[VIDEO DESPLIEGUE AWS](https://youtu.be/wBCFCen3Y_M)
+[VIDEO DESPLIEGUE AWS](https://youtu.be/ZxcrNNYQL1U)
 
 # Autor 
 Erika Juliana Castro Romero [Juc28](https://github.com/Juc28)
